@@ -24,4 +24,6 @@
 
 6、配置防火墙，点击Setting 点击Firewall 点击Manage 点击右边加号 配置防火墙，简单一点就是全打开。如下图所配置。然后返回服务器配置里面Update Firewall Group
 
+按照ssh窗口，microsoft store搜索window terminal安装
 
+使用window terminal教程：https://www.bilibili.com/video/BV1Ff4y1h7A5/?share_source=copy_web&vd_source=0a85c3bd7c4d8c060e70edeed11e0b28
